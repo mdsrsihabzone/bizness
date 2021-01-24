@@ -1,0 +1,305 @@
+@media (max-width:1199px) {
+    .slider_content h2 {
+        font-size: 45px;
+        margin-bottom: 10px;
+    }
+    .about_area {
+        margin-top: 50px;
+    }
+    .about_content {
+        padding-top: 20px;
+    }
+    .slider_content p:nth-last-child(2) {
+        margin-bottom: 30px;
+    }
+    .big_banner_contetn .our_btn {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+}
+
+@media (max-width: 991px) {
+    .top_content {
+        display: block;
+      
+    }
+    .top_left,.top_right {
+      text-align: center;
+    }
+    .top_left ul li {
+        margin-right: 10px;
+    }
+    .top_left ul li, .top_right ul li {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .navbar .navbar-nav li {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .slider_content h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .slider_content p:nth-last-child(2) {
+        margin-bottom: 22px;
+    }
+    .about_area {
+        margin-top: 0px;
+        padding-top: 15px;
+    }
+    .about_content {
+         padding-top: 0px; 
+    }
+    .our_btn {
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 20px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .do_part {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .do_part h4 {
+        font-size: 14px;
+        padding-bottom: 8px;
+    }
+    .our_nav li a {
+        padding-top: 16px;
+        padding-bottom: 16px;
+        font-size: 15px;
+    }
+    .work_area .sec_title {
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    .about_content .main_content .sec_title p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .work_nav li {
+        padding: 7px;
+    }
+    .work_nav li::after {
+        height: 13px;
+        top: 13px;
+    }
+    .tab_area {
+        margin-top: 60px;
+    }
+    .tab_content h2 {
+        margin-bottom: 8px;
+        font-size: 22px;
+    }
+    .tab_content {
+        background: #f7f7f7;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .team_member {
+        margin-bottom: 25px;
+    }
+    .social {
+        bottom: -70px;
+    }
+    .big_banner_contetn {
+        padding-bottom: 30px;
+        padding-top: 30px;
+        position: relative;
+    }
+    .big_banner h2 {
+        font-size: 22px;
+    }
+    .big_banner_contetn .our_btn {
+        padding-right: 20px;
+        padding-left: 20px;
+        border-radius: 30px;
+        font-size: 14px;
+    }
+    .blog .sec_title {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .brand {
+        padding-top: 45px;
+        padding-bottom: 46px;
+    }
+    .footer .widget {
+        padding-top: 55px;
+    }
+    .footer .widget_1 {
+        padding-top: 85px;
+    }
+    ul.twitt_feed li i {
+        float: none;
+        margin-top: 0px;
+    }
+    ul.twitt_feed li a {
+        padding-left: 0px;
+    }
+    .team {
+        padding-top: 75px;
+        line-height: 1.4em;
+        overflow: hidden;
+    }
+    .footer .widget_1 {
+        z-index: 1;
+    }
+    .widget_1::after {
+        right: -13%;
+        z-index: -1;
+    }
+
+}
+
+
+@media (max-width:768px) {
+    .abt_img img {
+        top: 0px;
+        left: 0px;
+    }
+    .we_do_img img {
+        max-width: 100%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .work_nav ul {
+        display: block; 
+    }
+    .work_nav li {
+        padding: 5px;
+    }
+    .work_nav li::after {
+        display: none;
+    }
+    .work_nav {
+        padding-bottom: 0px;
+    }
+    .each_when_hover {
+        transform: translateY(-380px);
+    }
+    .tab-img {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .big_banner h2 {
+        font-size: 19px;
+    }
+    .big_banner_contetn {
+        padding-bottom: 45px;
+        padding-top: 45px;
+    }
+    .big_banner_contetn .our_btn {
+        padding-right: 20px;
+        padding-left: 20px;
+        font-size: 13px;
+    }
+    .team .sec_title {
+        margin-bottom: 40px;
+    }
+    .footer .widget {
+        padding-top: 30px;
+    }
+    .subscriber input {
+        margin-bottom: 20px;
+    }
+    .blog_item {
+        margin-bottom: 16px;
+    }
+}
+@media (max-width:480px) {
+ 
+    .slider_content {
+        line-height: .7em;
+    }
+    .slider_content p {
+        font-size: 10px;
+    }
+    .slider_content h2{
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .carousel-indicators li {
+        display: none;
+    }
+    .slider_content p:nth-last-child(2) {
+        margin-bottom: 7px;
+    }
+    .slider_content p:first-child {
+        font-size: 8px;
+    }
+    .our_btn {
+        padding: 6px 7px;
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+    .we_do {
+        margin-top: 35px;
+        background: #fafafa;
+        padding-top: 50px;
+    }
+    .abt_img {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .big_banner_contetn {
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    .big_banner_contetn .our_btn {
+        padding-right: 10px;
+        padding-left: 10px;
+        font-size: 10px;
+    }
+    .big_banner h2 {
+        font-size: 16px;
+    }
+    .widget_1 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .widget_titile h4 {
+        margin-bottom: 15px;
+    }
+    ul.twitt_feed li i {
+        float: left;
+        margin-top: 5px;
+    }
+    ul.twitt_feed li a {
+        display: block;
+        padding-left: 25px;
+        color: #6b6b6b;
+    }
+}
+@media (max-width:361px) {
+
+.slider_content h2 {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.slider {
+    display: none;
+}
+.big_banner_contetn {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.big_banner h2 {
+    font-size: 13px;
+}
+.big_banner_contetn .our_btn {
+  
+    font-size: 10px;
+}
+.team_member {
+    margin-bottom: 15px;
+}
+.tab_content {
+    background: #f7f7f7;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+}
